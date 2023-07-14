@@ -1,6 +1,6 @@
 {
     "stats": 500,
-    "soft1": true,
+    "soft1": false,
     "soft1setsumei": [
         "使用禁止になりました"
     ]
