@@ -1,6 +1,6 @@
 {
     "stats": 500,
-    "soft1": false,
+    "soft1": true,
     "softUp": ["アップデートは配布されていません。"],
     "soft1setsumei": [
         "なんか罪悪感すごいのでやめます。ごめんちゃいwww"
